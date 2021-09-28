@@ -37,7 +37,7 @@
 	<key>com.barebones.bblm.variable</key>
 	<string>#7590db</string> <!-- var -->
 	<key>com.barebones.bblm.comment</key>
-	<string>#2aa1ae</string> <!-- comment -->
+	<string>#847F85</string> <!-- comment-light, 50% luminance, less purple -->
 	<key>com.barebones.bblm.heredoc-string</key>
 	<string>#2d9574</string> <!-- str -->
 	<key>com.barebones.bblm.keyword</key>
