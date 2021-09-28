@@ -24,7 +24,7 @@ Both schemes cover an identical (and broad) set of syntax scopes, current with B
 
 ## Installation
 
-1. Put these in the "Color Schemes" folder for BBEdit.
+1. Put these in BBEdit's "Color Schemes" support folder. (You can get there by choosing the folder name from the "Folders" submenu on the BBEdit application menu.)
 2. Select one of them in the "Text Colors" preference pane.
 3. There is no step three.
 
